@@ -1,0 +1,2 @@
+# jetpack_training_400point
+jetpackの練習用リポジトリ。テキストフィールの入力内容による表示に切り替えをViewModelを使用して実装
