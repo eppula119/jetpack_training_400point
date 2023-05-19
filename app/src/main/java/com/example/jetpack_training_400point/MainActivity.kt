@@ -65,7 +65,7 @@ class MainActivity : ComponentActivity() {
                         Spacer(modifier = Modifier.height(30.dp))
                         
                         Image(
-                            painter = painterResource(id = R.drawable.zoro),
+                            painter = painterResource(id = viewModel.imageResource),
                             contentDescription = viewModel.showText,
                             contentScale = ContentScale.Fit,
                             modifier = Modifier
